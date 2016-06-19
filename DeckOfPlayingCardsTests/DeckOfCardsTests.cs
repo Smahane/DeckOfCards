@@ -1,4 +1,8 @@
-﻿using DeckOfPlayingCards;
+////06/19/2016
+//Smahane Douyeb
+//DeckOfCardsTests.cs
+
+using DeckOfPlayingCards;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace DeckOfPlayingCardsTests
