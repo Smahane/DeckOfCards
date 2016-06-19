@@ -1,4 +1,8 @@
-﻿using System;
+////06/19/2016
+//Smahane Douyeb
+//DeckOfCards.cs
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
